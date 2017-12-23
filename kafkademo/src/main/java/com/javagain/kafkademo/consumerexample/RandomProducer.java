@@ -1,4 +1,4 @@
-package com.javagain.kafkademo.ocnsumerexample;
+package com.javagain.kafkademo.consumerexample;
 
 public class RandomProducer {
 
